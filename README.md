@@ -18,4 +18,4 @@ All opcodes are included, keygen
 # Winners
 Open a github issue with a MD5 hash of the key you found and the level you found it on to be listed here.
 
-@[LessThanGreaterThan](https://github.com/LessThanGreaterThan): 1
+@[LessThanGreaterThan](https://github.com/LessThanGreaterThan): 1, 2
