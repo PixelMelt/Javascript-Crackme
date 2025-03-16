@@ -19,4 +19,5 @@ All opcodes are included, keygen
 Open a github issue with a MD5 hash of the key you found and the level you found it on to be listed here.
 
 @[LessThanGreaterThan](https://github.com/LessThanGreaterThan): 1, 2
+
 @[Ciarands](https://github.com/Ciarands): 1, 2
