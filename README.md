@@ -12,12 +12,17 @@ Only used opcodes are included, simple if x == y
 # Level 2:
 All opcodes are included, keygen
 
+# Level 3:
+flag not easily found in memory
+
 # Future levels in development
 ###### maybe
 
 # Winners
-Open a github issue with a MD5 hash of the key you found and the level you found it on to be listed here.
+Open a github issue with a MD5 hash of the flag you found and the level you found it on to be listed here.
 
 @[LessThanGreaterThan](https://github.com/LessThanGreaterThan): 1, 2
 
 @[Ciarands](https://github.com/Ciarands): 1, 2
+
+@[pawhash](https://github.com/pawhash): 1, 2
