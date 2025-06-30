@@ -28,6 +28,6 @@ Open a github issue with a MD5 hash of the flag you found and the level you foun
 
 @[LessThanGreaterThan](https://github.com/LessThanGreaterThan): 1, 2
 
-@[Ciarands](https://github.com/Ciarands): 1, 2, 3
+@[Ciarands](https://github.com/Ciarands): 1, 2, 3, C1
 
 @[pawhash](https://github.com/pawhash): 1, 2, 3
