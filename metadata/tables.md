@@ -1,21 +1,4 @@
-# Javascript-Crackme
-
-Javascript crackme using VM based obfuscation
-
-# Instructions
-
-These crackmes can be safely run in your browser console on the URL [about:blank](about:blank)
-
-Try to get the success message, bonus points if you can re construct the original code.
-
-[Discord Server](https://discord.gg/USJQjwD7AY)
-
-# Winners
-
-View the [winners leaderboard here](./metadata/winners.md)!
-
 ## Official Levels
-
 <table>
 <tr>
 <th>Level</th>
@@ -59,10 +42,9 @@ View the [winners leaderboard here](./metadata/winners.md)!
 </tr>
 </table>
 
-<sub>_Difficulty ratings are subject to change, if you believe the ranking should be changed, please open an issue and explain why_</sub>
+<sub>*Difficulty ratings are subject to change, if you believe the ranking should be changed, please open an issue and explain why*</sub>
 
 ## Community Levels
-
 <table>
 <tr>
 <th>Level</th>
@@ -86,4 +68,5 @@ View the [winners leaderboard here](./metadata/winners.md)!
 </tr>
 </table>
 
-<sub>_Difficulty ratings are subject to change, if you believe the ranking should be changed, please open an issue and explain why_</sub>
+<sub>*Difficulty ratings are subject to change, if you believe the ranking should be changed, please open an issue and explain why*</sub>
+
