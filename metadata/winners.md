@@ -20,7 +20,17 @@
 
 ---
 
-## 3rd Place - [@LessThanGreaterThan](https://github.com/LessThanGreaterThan)
+## 3rd Place - [@hemusuku86](https://github.com/hemusuku86)
+
+**Progress:** 3/4 levels (75.0%)
+
+`███████████████░░░░░`
+
+**Conquered Levels:** `1` `2` `3`
+
+---
+
+## 4th Place - [@LessThanGreaterThan](https://github.com/LessThanGreaterThan)
 
 **Progress:** 2/4 levels (50.0%)
 
@@ -30,12 +40,22 @@
 
 ---
 
+## 5th Place - [@notemrovsky](https://github.com/notemrovsky)
+
+**Progress:** 1/4 levels (25.0%)
+
+`█████░░░░░░░░░░░░░░░`
+
+**Conquered Levels:** `C1`
+
+---
+
 ## Statistics
 
-- **Total Challengers:** 3
+- **Total Challengers:** 5
 - **Total Levels:** 4
-- **Most Popular Level:** Level 1 (3/3 completions)
-- **Hardest Level:** Community 1 (1/3 completions)
+- **Most Popular Level:** Level 1 (4/5 completions)
+- **Hardest Level:** Community 1 (2/5 completions)
 
 ---
 

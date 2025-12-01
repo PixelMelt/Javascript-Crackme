@@ -62,6 +62,16 @@
       "username": "pawhash",
       "profileUrl": "https://github.com/pawhash",
       "completedLevels": [1, 2, 3]
+    },
+    {
+      "username": "hemusuku86",
+      "profileUrl": "https://github.com/hemusuku86",
+      "completedLevels": [1, 2, 3]
+    },
+    {
+      "username": "notemrovsky",
+      "profileUrl": "https://github.com/notemrovsky",
+      "completedLevels": [4]
     }
   ]
 }

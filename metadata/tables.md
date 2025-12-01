@@ -17,8 +17,8 @@
 <td><strong>Virtual Machines</strong></td>
 <td><code>VM</code> <code>Single layer</code></td>
 <td>Only used opcodes are included, simple if x == y</td>
-<td>3/3</td>
-<td>100.0%</td>
+<td>4/5</td>
+<td>80.0%</td>
 </tr>
 <tr>
 <td>Level 2</td>
@@ -27,8 +27,8 @@
 <td><strong>Virtual Machines</strong></td>
 <td><code>VM</code> <code>Keygen</code> <code>Single layer</code></td>
 <td>All opcodes are included, keygen</td>
-<td>3/3</td>
-<td>100.0%</td>
+<td>4/5</td>
+<td>80.0%</td>
 </tr>
 <tr>
 <td>Level 3</td>
@@ -37,8 +37,8 @@
 <td><strong>Virtual Machines</strong></td>
 <td><code>VM</code> <code>Single layer</code></td>
 <td>Flag not easily found in memory</td>
-<td>2/3</td>
-<td>66.7%</td>
+<td>3/5</td>
+<td>60.0%</td>
 </tr>
 </table>
 
@@ -63,8 +63,8 @@
 <td><strong>Virtual Machines</strong></td>
 <td><code>VM</code> <code>Encryption</code> <code>Single layer</code></td>
 <td>Community submission</td>
-<td>1/3</td>
-<td>33.3%</td>
+<td>2/5</td>
+<td>40.0%</td>
 </tr>
 </table>
 
