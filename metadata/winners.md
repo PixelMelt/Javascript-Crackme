@@ -10,17 +10,17 @@
 
 ---
 
-## 2nd Place - [@pawhash](https://github.com/pawhash)
+## 2nd Place - [@hemusuku86](https://github.com/hemusuku86)
 
-**Progress:** 3/4 levels (75.0%)
+**Progress:** 4/4 levels (100.0%)
 
-`███████████████░░░░░`
+`████████████████████`
 
-**Conquered Levels:** `1` `2` `3`
+**Conquered Levels:** `1` `2` `3` `C1`
 
 ---
 
-## 3rd Place - [@hemusuku86](https://github.com/hemusuku86)
+## 3rd Place - [@pawhash](https://github.com/pawhash)
 
 **Progress:** 3/4 levels (75.0%)
 
@@ -55,7 +55,7 @@
 - **Total Challengers:** 5
 - **Total Levels:** 4
 - **Most Popular Level:** Level 1 (4/5 completions)
-- **Hardest Level:** Community 1 (2/5 completions)
+- **Hardest Level:** Level 3 (3/5 completions)
 
 ---
 

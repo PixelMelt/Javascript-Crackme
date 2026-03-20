@@ -63,8 +63,8 @@
 <td><strong>Virtual Machines</strong></td>
 <td><code>VM</code> <code>Encryption</code> <code>Single layer</code></td>
 <td>Community submission</td>
-<td>2/5</td>
-<td>40.0%</td>
+<td>3/5</td>
+<td>60.0%</td>
 </tr>
 </table>
 
