@@ -13,9 +13,7 @@ Try to get the success message, bonus points if you can re construct the origina
 # Winners
 
 View the [winners leaderboard here](./metadata/winners.md)!
-
 ## Official Levels
-
 <table>
 <tr>
 <th>Level</th>
@@ -34,8 +32,8 @@ View the [winners leaderboard here](./metadata/winners.md)!
 <td><strong>Virtual Machines</strong></td>
 <td><code>VM</code> <code>Single layer</code></td>
 <td>Only used opcodes are included, simple if x == y</td>
-<td>3/3</td>
-<td>100.0%</td>
+<td>4/5</td>
+<td>80.0%</td>
 </tr>
 <tr>
 <td>Level 2</td>
@@ -44,8 +42,8 @@ View the [winners leaderboard here](./metadata/winners.md)!
 <td><strong>Virtual Machines</strong></td>
 <td><code>VM</code> <code>Keygen</code> <code>Single layer</code></td>
 <td>All opcodes are included, keygen</td>
-<td>3/3</td>
-<td>100.0%</td>
+<td>4/5</td>
+<td>80.0%</td>
 </tr>
 <tr>
 <td>Level 3</td>
@@ -54,15 +52,14 @@ View the [winners leaderboard here](./metadata/winners.md)!
 <td><strong>Virtual Machines</strong></td>
 <td><code>VM</code> <code>Single layer</code></td>
 <td>Flag not easily found in memory</td>
-<td>2/3</td>
-<td>66.7%</td>
+<td>3/5</td>
+<td>60.0%</td>
 </tr>
 </table>
 
-<sub>_Difficulty ratings are subject to change, if you believe the ranking should be changed, please open an issue and explain why_</sub>
+<sub>*Difficulty ratings are subject to change, if you believe the ranking should be changed, please open an issue and explain why*</sub>
 
 ## Community Levels
-
 <table>
 <tr>
 <th>Level</th>
@@ -81,9 +78,10 @@ View the [winners leaderboard here](./metadata/winners.md)!
 <td><strong>Virtual Machines</strong></td>
 <td><code>VM</code> <code>Encryption</code> <code>Single layer</code></td>
 <td>Community submission</td>
-<td>1/3</td>
-<td>33.3%</td>
+<td>3/5</td>
+<td>60.0%</td>
 </tr>
 </table>
 
-<sub>_Difficulty ratings are subject to change, if you believe the ranking should be changed, please open an issue and explain why_</sub>
+<sub>*Difficulty ratings are subject to change, if you believe the ranking should be changed, please open an issue and explain why*</sub>
+
