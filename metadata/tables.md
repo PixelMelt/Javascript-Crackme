@@ -40,6 +40,16 @@
 <td>3/5</td>
 <td>60.0%</td>
 </tr>
+<tr>
+<td>Level 4</td>
+<td><img src="assets/insane.png" alt="insane" width="50"></td>
+<td>Pixelmelt</td>
+<td><strong>Virtual Machines</strong></td>
+<td><code>VM</code> <code>Encryption</code> <code>Hash-chain</code> <code>Anti-tamper</code> <code>Single layer</code></td>
+<td>Encrypted bytecode with hash-chain integrity, dynamic opcode generation, environment fingerprint gauntlet</td>
+<td>0/5</td>
+<td>0.0%</td>
+</tr>
 </table>
 
 <sub>*Difficulty ratings are subject to change, if you believe the ranking should be changed, please open an issue and explain why*</sub>

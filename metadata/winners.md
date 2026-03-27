@@ -2,9 +2,9 @@
 
 ## 1st Place - [@Ciarands](https://github.com/Ciarands)
 
-**Progress:** 4/4 levels (100.0%)
+**Progress:** 4/5 levels (80.0%)
 
-`████████████████████`
+`████████████████░░░░`
 
 **Conquered Levels:** `1` `2` `3` `C1`
 
@@ -12,9 +12,9 @@
 
 ## 2nd Place - [@hemusuku86](https://github.com/hemusuku86)
 
-**Progress:** 4/4 levels (100.0%)
+**Progress:** 4/5 levels (80.0%)
 
-`████████████████████`
+`████████████████░░░░`
 
 **Conquered Levels:** `1` `2` `3` `C1`
 
@@ -22,9 +22,9 @@
 
 ## 3rd Place - [@pawhash](https://github.com/pawhash)
 
-**Progress:** 3/4 levels (75.0%)
+**Progress:** 3/5 levels (60.0%)
 
-`███████████████░░░░░`
+`████████████░░░░░░░░`
 
 **Conquered Levels:** `1` `2` `3`
 
@@ -32,9 +32,9 @@
 
 ## 4th Place - [@LessThanGreaterThan](https://github.com/LessThanGreaterThan)
 
-**Progress:** 2/4 levels (50.0%)
+**Progress:** 2/5 levels (40.0%)
 
-`██████████░░░░░░░░░░`
+`████████░░░░░░░░░░░░`
 
 **Conquered Levels:** `1` `2`
 
@@ -42,9 +42,9 @@
 
 ## 5th Place - [@notemrovsky](https://github.com/notemrovsky)
 
-**Progress:** 1/4 levels (25.0%)
+**Progress:** 1/5 levels (20.0%)
 
-`█████░░░░░░░░░░░░░░░`
+`████░░░░░░░░░░░░░░░░`
 
 **Conquered Levels:** `C1`
 
@@ -53,9 +53,9 @@
 ## Statistics
 
 - **Total Challengers:** 5
-- **Total Levels:** 4
+- **Total Levels:** 5
 - **Most Popular Level:** Level 1 (4/5 completions)
-- **Hardest Level:** Level 3 (3/5 completions)
+- **Hardest Level:** Level 4 (0/5 completions)
 
 ---
 

@@ -32,11 +32,22 @@
       "author": "Pixelmelt",
       "category": "Virtual Machines",
       "tags": ["VM", "Single layer"]
+    },
+    {
+      "id": 4,
+      "name": "Level 4",
+      "difficulty": "insane",
+      "difficultyImage": "assets/insane.png",
+      "description": "Encrypted bytecode with hash-chain integrity, dynamic opcode generation, environment fingerprint gauntlet",
+      "file": "Levels/Level-4.js",
+      "author": "Pixelmelt",
+      "category": "Virtual Machines",
+      "tags": ["VM", "Encryption", "Hash-chain", "Anti-tamper", "Single layer"]
     }
   ],
   "community": [
     {
-      "id": 4,
+      "id": 5,
       "name": "Community 1",
       "difficulty": "harder",
       "difficultyImage": "assets/harder.png",
@@ -56,7 +67,7 @@
     {
       "username": "Ciarands",
       "profileUrl": "https://github.com/Ciarands",
-      "completedLevels": [1, 2, 3, 4]
+      "completedLevels": [1, 2, 3, 5]
     },
     {
       "username": "pawhash",
@@ -66,12 +77,12 @@
     {
       "username": "hemusuku86",
       "profileUrl": "https://github.com/hemusuku86",
-      "completedLevels": [1, 2, 3, 4]
+      "completedLevels": [1, 2, 3, 5]
     },
     {
       "username": "notemrovsky",
       "profileUrl": "https://github.com/notemrovsky",
-      "completedLevels": [4]
+      "completedLevels": [5]
     }
   ]
 }
