@@ -2,11 +2,11 @@
 
 ## 1st Place - [@Ciarands](https://github.com/Ciarands)
 
-**Progress:** 4/5 levels (80.0%)
+**Progress:** 5/5 levels (100.0%)
 
-`████████████████░░░░`
+`████████████████████`
 
-**Conquered Levels:** `1` `2` `3` `C1`
+**Conquered Levels:** `1` `2` `3` `4` `C1`
 
 ---
 
@@ -55,7 +55,7 @@
 - **Total Challengers:** 5
 - **Total Levels:** 5
 - **Most Popular Level:** Level 1 (4/5 completions)
-- **Hardest Level:** Level 4 (0/5 completions)
+- **Hardest Level:** Level 4 (1/5 completions)
 
 ---
 

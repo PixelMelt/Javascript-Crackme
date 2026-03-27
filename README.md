@@ -12,8 +12,7 @@ Try to get the success message, bonus points if you can re construct the origina
 
 # Winners
 
-View the [winners leaderboard here](./metadata/winners.md)!
-## Official Levels
+View the [winners leaderboard here](./metadata/winners.md)!## Official Levels
 <table>
 <tr>
 <th>Level</th>
@@ -62,8 +61,8 @@ View the [winners leaderboard here](./metadata/winners.md)!
 <td><strong>Virtual Machines</strong></td>
 <td><code>VM</code> <code>Encryption</code> <code>Hash-chain</code> <code>Anti-tamper</code> <code>Single layer</code></td>
 <td>Encrypted bytecode with hash-chain integrity, dynamic opcode generation, environment fingerprint gauntlet</td>
-<td>0/5</td>
-<td>0.0%</td>
+<td>1/5</td>
+<td>20.0%</td>
 </tr>
 </table>
 
