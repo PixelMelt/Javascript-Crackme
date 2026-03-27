@@ -97,30 +97,3 @@ View the [winners leaderboard here](./metadata/winners.md)!
 </table>
 
 <sub>_Difficulty ratings are subject to change, if you believe the ranking should be changed, please open an issue and explain why_</sub>
-
-## Community Levels
-
-<table>
-<tr>
-<th>Level</th>
-<th>Difficulty</th>
-<th>Author</th>
-<th>Category</th>
-<th>Tags</th>
-<th>Description</th>
-<th>Completions</th>
-<th>Pass Rate</th>
-</tr>
-<tr>
-<td>Community 1</td>
-<td><img src="assets/harder.png" alt="harder" width="50"></td>
-<td>__.___.____.___.__.___</td>
-<td><strong>Virtual Machines</strong></td>
-<td><code>VM</code> <code>Encryption</code> <code>Single layer</code></td>
-<td>Community submission</td>
-<td>3/5</td>
-<td>60.0%</td>
-</tr>
-</table>
-
-<sub>_Difficulty ratings are subject to change, if you believe the ranking should be changed, please open an issue and explain why_</sub>
