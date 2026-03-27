@@ -15,7 +15,7 @@
 <td><img src="assets/hard.png" alt="easy" width="50"></td>
 <td>Pixelmelt</td>
 <td><strong>Virtual Machines</strong></td>
-<td><code>VM</code> <code>Single layer</code></td>
+<td><code>VM</code></td>
 <td>Only used opcodes are included, simple if x == y</td>
 <td>4/5</td>
 <td>80.0%</td>
@@ -25,7 +25,7 @@
 <td><img src="assets/hard.png" alt="normal" width="50"></td>
 <td>Pixelmelt</td>
 <td><strong>Virtual Machines</strong></td>
-<td><code>VM</code> <code>Keygen</code> <code>Single layer</code></td>
+<td><code>VM</code> <code>Keygen</code></td>
 <td>All opcodes are included, keygen</td>
 <td>4/5</td>
 <td>80.0%</td>
@@ -35,7 +35,7 @@
 <td><img src="assets/harder.png" alt="hard" width="50"></td>
 <td>Pixelmelt</td>
 <td><strong>Virtual Machines</strong></td>
-<td><code>VM</code> <code>Single layer</code></td>
+<td><code>VM</code></td>
 <td>Flag not easily found in memory</td>
 <td>3/5</td>
 <td>60.0%</td>
@@ -45,8 +45,8 @@
 <td><img src="assets/insane.png" alt="insane" width="50"></td>
 <td>Pixelmelt</td>
 <td><strong>Virtual Machines</strong></td>
-<td><code>VM</code> <code>Encryption</code> <code>Hash-chain</code> <code>Anti-tamper</code> <code>Single layer</code></td>
-<td>Encrypted bytecode with hash-chain integrity, dynamic opcode generation, environment fingerprint gauntlet</td>
+<td><code>VM</code> <code>Encryption</code> <code>Patching</code></td>
+<td>Patch the enviroment checks to survive the gauntlet</td>
 <td>1/5</td>
 <td>20.0%</td>
 </tr>
@@ -71,7 +71,7 @@
 <td><img src="assets/harder.png" alt="harder" width="50"></td>
 <td>__.___.____.___.__.___</td>
 <td><strong>Virtual Machines</strong></td>
-<td><code>VM</code> <code>Encryption</code> <code>Single layer</code></td>
+<td><code>VM</code> <code>Encryption</code></td>
 <td>Community submission</td>
 <td>3/5</td>
 <td>60.0%</td>
