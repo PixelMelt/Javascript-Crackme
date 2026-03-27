@@ -1,88 +1,88 @@
 {
-  "official": [
-    {
-      "id": 1,
-      "name": "Level 1",
-      "difficulty": "easy",
-      "difficultyImage": "assets/hard.png",
-      "description": "Only used opcodes are included, simple if x == y",
-      "file": "Levels/Level-1.js",
-      "author": "Pixelmelt",
-      "category": "Virtual Machines",
-      "tags": ["VM", "Single layer"]
-    },
-    {
-      "id": 2,
-      "name": "Level 2",
-      "difficulty": "normal",
-      "difficultyImage": "assets/hard.png",
-      "description": "All opcodes are included, keygen",
-      "file": "Levels/Level-2.js",
-      "author": "Pixelmelt",
-      "category": "Virtual Machines",
-      "tags": ["VM", "Keygen", "Single layer"]
-    },
-    {
-      "id": 3,
-      "name": "Level 3",
-      "difficulty": "hard",
-      "difficultyImage": "assets/harder.png",
-      "description": "Flag not easily found in memory",
-      "file": "Levels/Level-3.js",
-      "author": "Pixelmelt",
-      "category": "Virtual Machines",
-      "tags": ["VM", "Single layer"]
-    },
-    {
-      "id": 4,
-      "name": "Level 4",
-      "difficulty": "insane",
-      "difficultyImage": "assets/insane.png",
-      "description": "Encrypted bytecode with hash-chain integrity, dynamic opcode generation, environment fingerprint gauntlet",
-      "file": "Levels/Level-4.js",
-      "author": "Pixelmelt",
-      "category": "Virtual Machines",
-      "tags": ["VM", "Encryption", "Hash-chain", "Anti-tamper", "Single layer"]
-    }
-  ],
-  "community": [
-    {
-      "id": 5,
-      "name": "Community 1",
-      "difficulty": "harder",
-      "difficultyImage": "assets/harder.png",
-      "description": "Community submission",
-      "file": "Community_Levels/Community-1.js",
-      "author": "__.___.____.___.__.___",
-      "category": "Virtual Machines",
-      "tags": ["VM", "Encryption", "Single layer"]
-    }
-  ],
-  "winners": [
-    {
-      "username": "LessThanGreaterThan",
-      "profileUrl": "https://github.com/LessThanGreaterThan",
-      "completedLevels": [1, 2]
-    },
-    {
-      "username": "Ciarands",
-      "profileUrl": "https://github.com/Ciarands",
-      "completedLevels": [1, 2, 3, 5]
-    },
-    {
-      "username": "pawhash",
-      "profileUrl": "https://github.com/pawhash",
-      "completedLevels": [1, 2, 3]
-    },
-    {
-      "username": "hemusuku86",
-      "profileUrl": "https://github.com/hemusuku86",
-      "completedLevels": [1, 2, 3, 5]
-    },
-    {
-      "username": "notemrovsky",
-      "profileUrl": "https://github.com/notemrovsky",
-      "completedLevels": [5]
-    }
-  ]
+	"official": [
+		{
+			"id": 1,
+			"name": "Level 1",
+			"difficulty": "easy",
+			"difficultyImage": "assets/hard.png",
+			"description": "Only used opcodes are included, simple if x == y",
+			"file": "Levels/Level-1.js",
+			"author": "Pixelmelt",
+			"category": "Virtual Machines",
+			"tags": ["VM"]
+		},
+		{
+			"id": 2,
+			"name": "Level 2",
+			"difficulty": "normal",
+			"difficultyImage": "assets/hard.png",
+			"description": "All opcodes are included, keygen",
+			"file": "Levels/Level-2.js",
+			"author": "Pixelmelt",
+			"category": "Virtual Machines",
+			"tags": ["VM", "Keygen"]
+		},
+		{
+			"id": 3,
+			"name": "Level 3",
+			"difficulty": "hard",
+			"difficultyImage": "assets/harder.png",
+			"description": "Flag not easily found in memory",
+			"file": "Levels/Level-3.js",
+			"author": "Pixelmelt",
+			"category": "Virtual Machines",
+			"tags": ["VM"]
+		},
+		{
+			"id": 4,
+			"name": "Level 4",
+			"difficulty": "insane",
+			"difficultyImage": "assets/insane.png",
+			"description": "Patch the enviroment checks to survive the gauntlet",
+			"file": "Levels/Level-4.js",
+			"author": "Pixelmelt",
+			"category": "Virtual Machines",
+			"tags": ["VM", "Encryption", "Patching"]
+		}
+	],
+	"community": [
+		{
+			"id": 5,
+			"name": "Community 1",
+			"difficulty": "harder",
+			"difficultyImage": "assets/harder.png",
+			"description": "Community submission",
+			"file": "Community_Levels/Community-1.js",
+			"author": "__.___.____.___.__.___",
+			"category": "Virtual Machines",
+			"tags": ["VM", "Encryption"]
+		}
+	],
+	"winners": [
+		{
+			"username": "LessThanGreaterThan",
+			"profileUrl": "https://github.com/LessThanGreaterThan",
+			"completedLevels": [1, 2]
+		},
+		{
+			"username": "Ciarands",
+			"profileUrl": "https://github.com/Ciarands",
+			"completedLevels": [1, 2, 3, 5]
+		},
+		{
+			"username": "pawhash",
+			"profileUrl": "https://github.com/pawhash",
+			"completedLevels": [1, 2, 3]
+		},
+		{
+			"username": "hemusuku86",
+			"profileUrl": "https://github.com/hemusuku86",
+			"completedLevels": [1, 2, 3, 5]
+		},
+		{
+			"username": "notemrovsky",
+			"profileUrl": "https://github.com/notemrovsky",
+			"completedLevels": [5]
+		}
+	]
 }
