@@ -83,6 +83,16 @@
 			"username": "notemrovsky",
 			"profileUrl": "https://github.com/notemrovsky",
 			"completedLevels": [5]
+		},
+		{
+			"username": "namecallfilter",
+			"profileUrl": "https://github.com/namecallfilter",
+			"completedLevels": [1, 2, 3, 4, 5]
+		},
+		{
+			"username": "enbyte",
+			"profileUrl": "https://github.com/enbyte",
+			"completedLevels": [1, 4]
 		}
 	]
 }

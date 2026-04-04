@@ -17,8 +17,8 @@
 <td><strong>Virtual Machines</strong></td>
 <td><code>VM</code></td>
 <td>Only used opcodes are included, simple if x == y</td>
-<td>4/5</td>
-<td>80.0%</td>
+<td>6/7</td>
+<td>85.7%</td>
 </tr>
 <tr>
 <td>Level 2</td>
@@ -27,8 +27,8 @@
 <td><strong>Virtual Machines</strong></td>
 <td><code>VM</code> <code>Keygen</code></td>
 <td>All opcodes are included, keygen</td>
-<td>4/5</td>
-<td>80.0%</td>
+<td>5/7</td>
+<td>71.4%</td>
 </tr>
 <tr>
 <td>Level 3</td>
@@ -37,8 +37,8 @@
 <td><strong>Virtual Machines</strong></td>
 <td><code>VM</code></td>
 <td>Flag not easily found in memory</td>
-<td>3/5</td>
-<td>60.0%</td>
+<td>4/7</td>
+<td>57.1%</td>
 </tr>
 <tr>
 <td>Level 4</td>
@@ -47,8 +47,8 @@
 <td><strong>Virtual Machines</strong></td>
 <td><code>VM</code> <code>Encryption</code> <code>Patching</code></td>
 <td>Patch the enviroment checks to survive the gauntlet</td>
-<td>1/5</td>
-<td>20.0%</td>
+<td>3/7</td>
+<td>42.9%</td>
 </tr>
 </table>
 
@@ -73,8 +73,8 @@
 <td><strong>Virtual Machines</strong></td>
 <td><code>VM</code> <code>Encryption</code></td>
 <td>Community submission</td>
-<td>3/5</td>
-<td>60.0%</td>
+<td>4/7</td>
+<td>57.1%</td>
 </tr>
 </table>
 

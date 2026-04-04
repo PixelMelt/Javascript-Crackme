@@ -10,7 +10,17 @@
 
 ---
 
-## 2nd Place - [@hemusuku86](https://github.com/hemusuku86)
+## 2nd Place - [@namecallfilter](https://github.com/namecallfilter)
+
+**Progress:** 5/5 levels (100.0%)
+
+`████████████████████`
+
+**Conquered Levels:** `1` `2` `3` `4` `C1`
+
+---
+
+## 3rd Place - [@hemusuku86](https://github.com/hemusuku86)
 
 **Progress:** 4/5 levels (80.0%)
 
@@ -20,7 +30,7 @@
 
 ---
 
-## 3rd Place - [@pawhash](https://github.com/pawhash)
+## 4th Place - [@pawhash](https://github.com/pawhash)
 
 **Progress:** 3/5 levels (60.0%)
 
@@ -30,7 +40,7 @@
 
 ---
 
-## 4th Place - [@LessThanGreaterThan](https://github.com/LessThanGreaterThan)
+## 5th Place - [@LessThanGreaterThan](https://github.com/LessThanGreaterThan)
 
 **Progress:** 2/5 levels (40.0%)
 
@@ -40,7 +50,17 @@
 
 ---
 
-## 5th Place - [@notemrovsky](https://github.com/notemrovsky)
+## 6th Place - [@enbyte](https://github.com/enbyte)
+
+**Progress:** 2/5 levels (40.0%)
+
+`████████░░░░░░░░░░░░`
+
+**Conquered Levels:** `1` `4`
+
+---
+
+## 7th Place - [@notemrovsky](https://github.com/notemrovsky)
 
 **Progress:** 1/5 levels (20.0%)
 
@@ -52,10 +72,10 @@
 
 ## Statistics
 
-- **Total Challengers:** 5
+- **Total Challengers:** 7
 - **Total Levels:** 5
-- **Most Popular Level:** Level 1 (4/5 completions)
-- **Hardest Level:** Level 4 (1/5 completions)
+- **Most Popular Level:** Level 1 (6/7 completions)
+- **Hardest Level:** Level 4 (3/7 completions)
 
 ---
 
